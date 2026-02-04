@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="Halil Penny Game" package="com.halil.game" version="1.0.0" />
+	
+	<app main="Main" path="Export" file="HalilGame" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="lime" />
+	
+	<assets path="assets/images" />
+	<assets path="assets/sounds" type="sound" />
+	
+	<window width="800" height="600" background="0xFFA500" fps="60" />
+</project>
